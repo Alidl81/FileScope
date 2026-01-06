@@ -79,4 +79,4 @@ python App/UFC.py</code>
 
 <h2 style="color:#6366f1;">📄 License</h2>
 
-<p>MIT License – see <a href=""LICENSE.txt>LICENSE file</a></p>
+<p>CC BY-NC 4.0 License – see <a href=""LICENSE.txt>LICENSE file</a></p>
