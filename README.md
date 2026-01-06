@@ -37,6 +37,7 @@ python App/UFC.py</code>
 </pre>
 <p>OR</p> 
 <p>Easily Download the latest released version and install it on your system.</p>
+<p><a href="">⬇️ Download Installer</a>  (No Python required – Just download and install)</p>
 ---
 
 <h2 style="color:#6366f1;">🚀 Usage</h2>
