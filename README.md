@@ -33,7 +33,7 @@
 <pre style="background-color:#f4f6fb;padding:10px;border-radius:6px;">
 <code>git clone https://github.com/Alidl81/FileScope.git
 pip install -r requirements.txt
-python App/UFC.py</code>
+python App/FileScope.py</code>
 </pre>
 <p>OR</p> 
 <p>Easily Download the latest released version and install it on your system.</p>
