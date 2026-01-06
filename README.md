@@ -35,7 +35,8 @@
 pip install -r requirements.txt
 python App/UFC.py</code>
 </pre>
-
+<p>OR</p> 
+<p>Easily Download the latest released version and install it on your system.</p>
 ---
 
 <h2 style="color:#6366f1;">🚀 Usage</h2>
