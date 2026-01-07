@@ -38,7 +38,8 @@ python App/FileScope.py</code>
 <p>OR</p> 
 <p>Easily Download the latest released version and install it on your system.</p>
 <p><a href="https://github.com/Alidl81/FileScope/releases/tag/desktop-application">⬇️ Download Installer</a>  (No Python required – Just download and install)</p>
----
+<b>* The Application must be run in administrator mode *</b>
+
 
 <h2 style="color:#6366f1;">🚀 Usage</h2>
 
